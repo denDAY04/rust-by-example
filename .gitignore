@@ -1,4 +1,7 @@
 # build artifacts
 *.exe
 *.pdb
+*.rlib
+*.lock
 **/target
+
